@@ -23,7 +23,7 @@ function Home2() {
               <br />
               <br />Je suis capable de développer avec différents langages comme le
               <i>
-                <b className="purple"> C++, Javascript, PHP, HTML & CSS, SCSS ... </b>
+                <b className="purple"> C#, Javascript, PHP, HTML & CSS, SCSS ... </b>
               </i>
               <br />
               <br />
